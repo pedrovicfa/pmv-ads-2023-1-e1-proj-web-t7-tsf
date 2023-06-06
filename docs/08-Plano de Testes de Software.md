@@ -105,7 +105,7 @@ Abaixo estão os casos de testes escolhidos pela equipe, considerando os Requisi
 |:-----------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
 |Requisitos Associados:|RF06 - O site deve apresentar na página de relatos, cards com identificação anônima ou não e a opção de relatar.|
 |Objetivo do Teste:|Verificar se o usuário Psicólogo conseguirá cadastrar relato.|
-|Passos:|1) Acessar a Home Page e efetuar o login com um pergil de Psicólogo; <br/> 2) Na barra de navegação, escolher o link "Relatos".|
+|Passos:|1) Acessar a Home Page e efetuar o login com um perfil de Psicólogo; <br/> 2) Na barra de navegação, escolher o link "Relatos".|
 |Critérios de Êxito:|1) A página Relatos deverá ser exigida com os relatos já cadastrados; <br/> Não poderá conter a opção para que o usuário deixe seu relato.| 
 
 

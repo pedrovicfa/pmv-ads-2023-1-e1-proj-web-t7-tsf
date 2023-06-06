@@ -98,7 +98,7 @@ Abaixo estão os casos de testes escolhidos pela equipe, considerando os Requisi
 |:-----------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
 |Requisitos Associados:|RF06 - O site deve apresentar na página de relatos, cards com identificação anônima ou não e a opção de relatar. <br/> RF04 - Todos os botões devem ser clicáveis.|
 |Objetivo do Teste:|Verificar se o usuário Imigrante conseguirá cadastrar seu relato.|
-|Passos:|1) Acessar a Home Page e efetuar o login com um pergil de Imigrante; <br/> 2) Na barra de navegação, escolher o link "Relatos".|
+|Passos:|1) Acessar a Home Page e efetuar o login com um perfil de Imigrante; <br/> 2) Na barra de navegação, escolher o link "Relatos".|
 |Critérios de Êxito:|1) A página Relatos deverá ser exigida com os relatos já cadastrados; <br/> Deverá conter uma opção para que o usuário deixe seu relato; <br/> O usuário deverá ter a opção de cadastrar o relato anônimo ou não.| 
 
 |Caso de Teste|CT15 - Relatos|
